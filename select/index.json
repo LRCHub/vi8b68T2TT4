@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ランデヴー",
+  "base_artist": "Sangatsu No Phantasia",
+  "createdAt": "2026-02-21T16:35:16.354671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RENDEZVOUS〜ランデヴー〜",
+      "artist": "Buck-Tick",
+      "has_synced": false,
+      "path": "select/01_RENDEZVOUS〜ランデヴー〜_Buck-Tick.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バンブー・ランデヴー",
+      "artist": "メイメイ(CV:花澤香菜)",
+      "has_synced": true,
+      "path": "select/02_バンブー・ランデヴー_メイメイ(CV_花澤香菜).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バンブー・ランデヴー♡",
+      "artist": "メイメイ(CV:花澤香菜)",
+      "has_synced": true,
+      "path": "select/03_バンブー・ランデヴー♡_メイメイ(CV_花澤香菜).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "RENDEZVOUS～ランデヴー～",
+      "artist": "BUCK‐TICK",
+      "has_synced": false,
+      "path": "select/04_RENDEZVOUS~ランデヴー~_BUCK‐TICK.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ランデヴー - rendez-vous",
+      "artist": "shytaupe",
+      "has_synced": true,
+      "path": "select/05_ランデヴー_-_rendez-vous_shytaupe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ランデヴー",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/06_ランデヴー_Uru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "セブンティーン・ランデヴー",
+      "artist": "MEG",
+      "has_synced": false,
+      "path": "select/07_セブンティーン・ランデヴー_MEG.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ランデヴー",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/08_ランデヴー_YUKI.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミッドナイト・ランデヴー",
+      "artist": "Shohei Takagi Parallela Botanica",
+      "has_synced": true,
+      "path": "select/09_ミッドナイト・ランデヴー_Shohei_Takagi_Parallela_Botanica.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ランデヴー",
+      "artist": "shytaupe",
+      "has_synced": true,
+      "path": "select/10_ランデヴー_shytaupe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ランデヴー",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/11_ランデヴー_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "リトライ☆ランデヴー",
+      "artist": "Nyaa-tan",
+      "has_synced": false,
+      "path": "select/12_リトライ☆ランデヴー_Nyaa-tan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ランデヴー",
+      "artist": "URU",
+      "has_synced": true,
+      "path": "select/13_ランデヴー_URU.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "リトライ☆ランデヴー",
+      "artist": "にゃ～たん(CV:村川梨衣)",
+      "has_synced": true,
+      "path": "select/14_リトライ☆ランデヴー_にゃ~たん(CV_村川梨衣).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "RENDEZVOUS ～ランデヴー～",
+      "artist": "BUCK-TICK",
+      "has_synced": false,
+      "path": "select/15_RENDEZVOUS_~ランデヴー~_BUCK-TICK.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ランデヴー",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": false,
+      "path": "select/pl_01_ランデヴー_Sangatsu_no_Phantasia.txt"
+    }
+  ]
+}
